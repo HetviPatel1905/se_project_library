@@ -9,3 +9,14 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+## Images
+
+- link for images = ![Alt text](./images/)
+
+## Deployment
+
+This webpage is deployed to Github Pages.
+
+- Deployment Link:
+  [link]https://hetvipatel1905.github.io/se_project_spots/
