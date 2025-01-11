@@ -19,4 +19,4 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 This webpage is deployed to Github Pages.
 
 - Deployment Link:
-  [link]https://hetvipatel1905.github.io/se_project_spots/
+  [link](https://github.com/HetviPatel1905/se_project_library/tree/main)
